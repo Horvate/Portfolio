@@ -10,6 +10,8 @@ desenvolvedor Front-end.
 ## 🛠 Tecnologias utilizadas
 
 - HTML5
+- CSS
+- JS
 - Git e GitHub
 
 ---
@@ -37,4 +39,4 @@ portfolio/
 
  ## 📌 Status do projeto
 
-🚧 Em desenvolvimento — estrutura inicial concluída e estilos em andamento.
+🚧 Em desenvolvimento — Novas melhorias visuais, responsividade e projetos práticos serão adicionados em breve.
