@@ -11,6 +11,9 @@ desenvolvedor Front-end.
 
 🔗 https://horvate.github.io/Portfolio/
 
+
+![Preview do Portfólio](assets/image/preview.png.gif)
+
 ---
 
 ## 🛠 Tecnologias utilizadas
